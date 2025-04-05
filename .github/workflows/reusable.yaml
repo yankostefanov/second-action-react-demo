@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latets
     steps:
       - name: Output info
-        run: echo "Deploying..."
+        run: echo "Deploying and reuse..."
